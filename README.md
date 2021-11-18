@@ -36,7 +36,7 @@ ptf> `use modules/custom_list/list`
 
 _or_ 
 
-ptf> `use modules/custom_list/<customized listing of modules>`
+ptf> `use modules/custom_list/<file of customized listing of modules>`
 
-> place custom txt files in `<path to ptf>/modules/custom_list/<filename.txt`
+> place custom txt files in `<path to ptf>/modules/custom_list/<filename.txt>`
 ---
