@@ -20,3 +20,4 @@ modules/vulnerability-analysis/medusa
 modules/vulnerability-analysis/nikto
 modules/vulnerability-analysis/nmap
 modules/vulnerability-analysis/wpscan
+modules/vulnerability-analysis/wfuzz
