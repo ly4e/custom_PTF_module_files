@@ -1,0 +1,6 @@
+modules/reversing/binwalk
+modules/reversing/cfr
+modules/reversing/cminer
+modules/reversing/flare
+modules/reversing/flasm
+modules/reversing/radare2
