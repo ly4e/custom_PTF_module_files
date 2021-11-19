@@ -22,6 +22,7 @@ execute `ptf` as root or with sudo -> `sudo ./ptf` this will create the launcher
 ---
 ### Getting started with modules
 #### installing ALL included modules
+###### # TIP: `sudo su` prior to "install_update_all" it will make the install go smoother
 ptf> `use modules/install_update_all`
 
 #### installing a subset of modules
