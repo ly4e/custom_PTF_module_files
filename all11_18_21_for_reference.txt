@@ -53,7 +53,6 @@ modules/exploitation/pwntools
 modules/exploitation/responder
 modules/exploitation/routersploit
 modules/exploitation/setoolkit
-modules/exploitation/shellgen
 modules/exploitation/shellnoob
 modules/exploitation/sipvicious
 modules/exploitation/snarf
@@ -144,7 +143,6 @@ modules/intelligence-gathering/wafw00f
 modules/intelligence-gathering/windows-exploit-suggester
 modules/intelligence-gathering/xdotool
 modules/intelligence-gathering/yapscan
-modules/mobile-analysis/backHack
 modules/osx/evilosx
 modules/password-recovery/cewl
 modules/password-recovery/check_hashes
@@ -275,7 +273,6 @@ modules/vulnerability-analysis/wfuzz
 modules/vulnerability-analysis/whatweb
 modules/vulnerability-analysis/winshock-test
 modules/vulnerability-analysis/wpscan
-modules/vulnerability-analysis/wpseku
 modules/vulnerability-analysis/xsstrike
 modules/vulnerability-analysis/zmap
 modules/webshells/b374k
@@ -292,7 +289,6 @@ modules/wireless/hcxdumptool
 modules/wireless/hcxtools
 modules/wireless/kismet
 modules/wireless/mana-toolkit
-modules/wireless/mdk3
 modules/wireless/peanuts
 modules/wireless/wifiphisher
 modules/wireless/wifipumpkin3
